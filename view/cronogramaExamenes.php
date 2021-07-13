@@ -38,6 +38,10 @@ include("nav.php");
     </tr>  
   </tbody>
 </table>
+<script src="../librerias/popper/popper.min.js"></script>
+<script src="../librerias/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../librerias/datatables/datatables.min.js"></script>    
 
+   
 </body>
 </html>

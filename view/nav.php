@@ -11,7 +11,7 @@
     <script src="../librerias/jquery/jquery-3.3.1.min.js"></script>
     <script src="../librerias/js/sweetalert2.all.min.js"></script>
     <link rel="stylesheet" href="../css/estilos.css">
-    <title>PlatziConf Hawai</title>
+    <title>Facultad de Ciencias y Tegnologia</title>
   </head>
   <body data-spy="scroll" data-target="#navbar" data-offset="57">
     <!-- Inicio del header -->
@@ -27,9 +27,9 @@
                 Informacion
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Tesis</a>
-                <a class="dropdown-item" href="view/defensaTesis.php">Defensa de Tesis</a>
-                <a class="dropdown-item" href="#">Tramite</a>
+                <a class="dropdown-item" href="pagina.php">Tesis</a>
+                <a class="dropdown-item" href="defensaTesis.php">Defensa de Tesis</a>
+                <a class="dropdown-item" href="pagina.php">Tramite</a>
               </div>
             </div>
             <div class="dropdown">
@@ -38,8 +38,8 @@
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="http://2021.cappuchino.scesi.umss.edu.bo/">Semestre</a>
-                <a class="dropdown-item" href="#">Invierno</a>
-                <a class="dropdown-item" href="#">Verano</a>
+                <a class="dropdown-item" href="pagina.php">Invierno</a>
+                <a class="dropdown-item" href="pagina.php">Verano</a>
               </div>
             </div>
             <div class="dropdown">
@@ -47,8 +47,8 @@
                 Noticias
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Calendario academico</a>
-                <a class="dropdown-item" href="#">Becas</a>
+                <a class="dropdown-item" href="pagina.php">Calendario academico</a>
+                <a class="dropdown-item" href="pagina.php">Becas</a>
               </div>
             </div>
             <div class="dropdown">
@@ -58,7 +58,7 @@
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="cronogramaExamenes.php">Cronograma de examenes</a>
                 <a class="dropdown-item" href="examenesPasados.php">Examenes pasados</a>
-                <a class="dropdown-item" href="#">Resultados</a>
+                <a class="dropdown-item" href="pagina.php">Resultados</a>
               </div>
             </div>
             <div class="dropdown">
@@ -66,10 +66,10 @@
                 Pregrado
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Carreras disponibles</a>
-                <a class="dropdown-item" href="#">Examenes de mesa</a>
-                <a class="dropdown-item" href="#">Curso de invierno</a>
-                <a class="dropdown-item" href="#">Curso de verano</a>
+                <a class="dropdown-item" href="carreras.php">Carreras disponibles</a>
+                <a class="dropdown-item" href="pagina.php">Examenes de mesa</a>
+                <a class="dropdown-item" href="pagina.php">Curso de invierno</a>
+                <a class="dropdown-item" href="pagina.php">Curso de verano</a>
               </div>
             </div>
             <div class="dropdown">
@@ -77,8 +77,8 @@
                 Posgrado
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Diplomados</a>
-                <a class="dropdown-item" href="#">Maestrias</a>
+                <a class="dropdown-item" href="http://posgrado.fcyt.umss.edu.bo/">Diplomados</a>
+                <a class="dropdown-item" href="http://posgrado.fcyt.umss.edu.bo/">Maestrias</a>
               </div>
             </div>
             <div class="dropdown">
@@ -86,10 +86,17 @@
                 Aceca de
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+<<<<<<< HEAD
                 <a class="dropdown-item" href="#">Informacion</a>
                 <a class="dropdown-item" href="#">Contacto</a>
                 <a class="dropdown-item" href="#">Autoridades</a>
                 <a class="dropdown-item" href="#">Docentes</a>
+=======
+                <a class="dropdown-item" href="pagina.php">Informacio</a>
+                <a class="dropdown-item" href="pagina.php">Contacto</a>
+                <a class="dropdown-item" href="pagina.php">Autoridades</a>
+                <a class="dropdown-item" href="pagina.php">Docentes</a>
+>>>>>>> 6c2c2027d138f39e94af06b3704e20aa5e8fc15d
               </div>
             </div>
           </ul>
