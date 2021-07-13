@@ -1,6 +1,6 @@
 
 <?php
-include("navIndex.php");
+include("nav.php");
 ?>
  <!-- Final del header -->
  <section id="speakers" class="speakers mt-4 mb-4">
