@@ -57,6 +57,7 @@
         <h2>DIPLOMADOS POSGRADOS FCYT - UMSS</h2>
       </div>
 
+
       <div class="row">
         <div class="col-sm-6 col-md-4 mb-4">
           <div class="card">

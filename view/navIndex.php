@@ -20,7 +20,7 @@
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="../index.php">Inicio</a>
+              <a class="nav-link" href="index.php">Inicio</a>
             </li>
             <div class="dropdown">
               <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -38,8 +38,8 @@
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="http://2021.cappuchino.scesi.umss.edu.bo/">Semestre</a>
-                <a class="dropdown-item" href="#">Invierno</a>
-                <a class="dropdown-item" href="#">Verano</a>
+                <a class="dropdown-item" href="view/pagina.php">Invierno</a>
+                <a class="dropdown-item" href="view/pagina.php">Verano</a>
               </div>
             </div>
             <div class="dropdown">
@@ -47,8 +47,8 @@
                 Noticias
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Calendario academico</a>
-                <a class="dropdown-item" href="#">Becas</a>
+                <a class="dropdown-item" href="view/cronogramaAcademico.php">Calendario academico</a>
+                <a class="dropdown-item" href="view/pagina.php">Becas</a>
               </div>
             </div>
             <div class="dropdown">
@@ -58,7 +58,7 @@
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="view/cronogramaExamenes.php">Cronograma de examenes</a>
                 <a class="dropdown-item" href="view/examenesPasados.php">Examenes pasados</a>
-                <a class="dropdown-item" href="#">Resultados</a>
+                <a class="dropdown-item" href="view/pagina.php">Resultados</a>
               </div>
             </div>
             <div class="dropdown">
@@ -66,10 +66,10 @@
                 Pregrado
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Carreras disponibles</a>
-                <a class="dropdown-item" href="#">Examenes de mesa</a>
-                <a class="dropdown-item" href="#">Curso de invierno</a>
-                <a class="dropdown-item" href="#">Curso de verano</a>
+                <a class="dropdown-item" href="view/pagina.php">Carreras disponibles</a>
+                <a class="dropdown-item" href="view/pagina.php">Examenes de mesa</a>
+                <a class="dropdown-item" href="view/pagina.php">Curso de invierno</a>
+                <a class="dropdown-item" href="view/pagina.php">Curso de verano</a>
               </div>
             </div>
             <div class="dropdown">
@@ -77,8 +77,8 @@
                 Posgrado
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Diplomados</a>
-                <a class="dropdown-item" href="#">Maestrias</a>
+                <a class="dropdown-item" href="view/pagina.php">Diplomados</a>
+                <a class="dropdown-item" href="view/pagina.php">Maestrias</a>
               </div>
             </div>
             <div class="dropdown">
@@ -86,10 +86,10 @@
                 Aceca de
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Informacio</a>
-                <a class="dropdown-item" href="#">Contacto</a>
-                <a class="dropdown-item" href="#">Autoridades</a>
-                <a class="dropdown-item" href="#">Docentes</a>
+                <a class="dropdown-item" href="view/pagina.php">Informacio</a>
+                <a class="dropdown-item" href="view/pagina.php">Contacto</a>
+                <a class="dropdown-item" href="view/pagina.php">Autoridades</a>
+                <a class="dropdown-item" href="view/pagina.php">Docentes</a>
               </div>
             </div>
           </ul>
