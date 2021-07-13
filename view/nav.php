@@ -86,7 +86,7 @@
                 Aceca de
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Informacio</a>
+                <a class="dropdown-item" href="#">Informacion</a>
                 <a class="dropdown-item" href="#">Contacto</a>
                 <a class="dropdown-item" href="#">Autoridades</a>
                 <a class="dropdown-item" href="#">Docentes</a>
