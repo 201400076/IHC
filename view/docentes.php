@@ -20,51 +20,52 @@ include("nav.php");
                 <br>
                 <ul class="list-group">
                     <li class="list-group-item">
-                        <h3><a href="faculty/dks001.html">Dhirendra Sinha</a></h3>
+                        <h3><a href="faculty/dks001.html">Jose Rojas</a></h3>
                         <div class="row">
                             <div class="col-sm-2 col-md-2 col-lg-2">
                                 <img src="../images/DKS.jpg">
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
-                                Ph.D. (Physics)
-                                <br/> IIT Kanpur
+                                Ph.D. (fisica)
+                                <br/> Titular
                                 <br/>
-                                <b>Areas of Interest : </b>Physics of organic semiconductor devices, in particular, organic light-emitting diodes and solar cells. Hybrid devices involving organic materials embedded with inorganic nano-particles. Understanding physical processes such as charge-carrier transport and recombination in the practical devices.
-                                <br/> Contact : <b>dhirendra.sinha@iiitvadodara.ac.in</b>
+                                <b>Areas de interes : </b>Física de dispositivos semiconductores orgánicos, en particular, diodos emisores de luz orgánicos y células solares. Dispositivos híbridos que involucran materiales orgánicos incrustados con nanopartículas inorgánicas. Comprender los procesos físicos como el transporte de portadores de carga y la recombinación en los dispositivos prácticos..
+                                <br/> Contacto: <b>jose@gmail.com</b>
                             </div>
                         </div>
                     </li>
                     <li class="list-group-item">
-                        <h3> <a href="faculty/pps001.html">Pratik Shah</a></h3>
+                        <h3> <a href="faculty/pps001.html">Ramiro Montecinos</a></h3>
                         <div class="row">
                             <div class="col-sm-2 col-md-2 col-lg-2">
                                 <img src="../images/pratik.jpg">
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
-                                Ph.D. (Computer Vision)
-                                <br/> DA-IICT
+                                Ph.D. Vision por computadora
+                                <br/> Extraordinario
                                 <br/>
-                                <b>Areas of Interest : </b>Differential Geometry, Signal Processing, Scientific Computing.
-                                <br/> Contact : <b>pratik@iiitvadodara.ac.in</b>
+                                <b>Areas de interes: </b>Geometría diferencial, procesamiento de señales, computación científica.
+                                <br/> Contacto: <b>ramiro123@gmail.com</b>
                             </div>
                         </div>
                     </li>
                     <li class="list-group-item">
-                        <h3><a href="faculty/bnc001.html">Barnali Chetia</a></h3>
+                        <h3><a href="faculty/bnc001.html">Cinthia Rojas</a></h3>
                         <div class="row">
                             <div class="col-sm-2 col-md-2 col-lg-2">
                                 <img src="../images/barnali.jpg">
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
-                                Ph.D. (Linguistics)
-                                <br/> JNU New Delhi
+                                Ph.D. (Linguistica)
+                                <br/> Titular
                                 <br/>
-                                <b>Areas of Interest : </b>Applied Linguistics, Sociolinguistics, Discourse Analysis, Gender Studies, Technical Communication.
-                                <br/> Contact : <b>barnali@iiitvadodara.ac.in</b>
+                                <b>Areas de interes: </b>Lingüística aplicada, Sociolingüística, Análisis del discurso, Estudios de género, Comunicación técnica
+.
+                                <br/> Contacto: <b>cinthia99@gmail.com</b>
                             </div>
                         </div>
                     </li>
-                    <li class="list-group-item">
+                   <!--  <li class="list-group-item">
                         <h3><a href="faculty/aaj001.html">Ajay Nath</a></h3>
                         <div class="row">
                             <div class="col-sm-2 col-md-2 col-lg-2">
@@ -183,7 +184,7 @@ include("nav.php");
                                 <br/> Contact : 
                             </div>
                         </div>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>

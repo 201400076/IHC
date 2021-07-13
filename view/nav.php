@@ -86,17 +86,10 @@
                 Aceca de
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-<<<<<<< HEAD
-                <a class="dropdown-item" href="#">Informacion</a>
-                <a class="dropdown-item" href="#">Contacto</a>
-                <a class="dropdown-item" href="#">Autoridades</a>
-                <a class="dropdown-item" href="#">Docentes</a>
-=======
-                <a class="dropdown-item" href="pagina.php">Informacio</a>
+                <a class="dropdown-item" href="informacion.php">Informacion</a>
                 <a class="dropdown-item" href="pagina.php">Contacto</a>
-                <a class="dropdown-item" href="pagina.php">Autoridades</a>
-                <a class="dropdown-item" href="pagina.php">Docentes</a>
->>>>>>> 6c2c2027d138f39e94af06b3704e20aa5e8fc15d
+                <a class="dropdown-item" href="autoridades.php">Autoridades</a>
+                <a class="dropdown-item" href="docentes.php">Docentes</a>
               </div>
             </div>
           </ul>

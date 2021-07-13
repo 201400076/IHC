@@ -13,18 +13,66 @@ include("nav.php");
             </div>
         </section>
     <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
 
-    <div class="contents-wrapper">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+    <div class="container">
+</div>
+
+  
             <!-- Contents starts here -->
-            <div class="content">
+            
                 
-                <p>La Facultad de Ciencias y Tecnología de la Universidad Mayor de San Simón nace con la concepción de un Instituto de Ciencias Básicas, en la década del 60 bajo la gestión rectoral del Dr. Arturo Urquidi. En 1972, se crea la Facultad de Ciencias Puras y Naturales como unidad de servicios para todas las carreras de la U.M.S.S., en el campo de las Matemáticas, Física, Química, y Biología, lográndose posteriormente la creación de sus primeras carreras: Licenciatura y Técnico Superior en Química y Biología entre 1975 y 1976.</p>
-                <p>En los años 1976 a 1979, se comisiona la realización de un estudio de factibilidad para la viabilización de las carreras de ingeniería de la U.M.S.S., en base al cual, mediante Resolución del Consejo Universitario No. 07/79, se crean las carreras de ingeniería Eléctrica, Industrial y Mecánica de un Facultad de Tecnología y un Instituto politécnico, conectándolas a las carreras de ciencias con funcionamiento de la Facultad de Ciencias Puras y Naturales.</p>
-                <p>El 21 de septiembre de 1979, mediante Resolución Rectoral No. 471/79 se dispone la conjunción de la carreras de Ciencias y las de Tecnología en una facultad con denominación de FACULTAD DE CIENCIAS Y TECNOLOGÍA.</p>
-            </div>
-        </div>
-        <!-- Footer -->
-    </div>
+                <table class="table table-bordered table-responsive table-hover" align="rigth">
+                    <thead>
+                        <tr>
+                            <th data-field="id">No.</th>
+                            <th data-field="name">Nombre</th>
+                            <th data-field="designation">Cargo</th>
+                        </tr>
+                    </thead>
+                    <tr>
+                        <td>1</td>
+                        <td>Ing. M.Sc. ALFREDO COSIO PAPADOPOLIS</td>
+                        <td>DECANO</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Ing. JOSE LUIS BALDERRAMA IDINA</td>
+                        <td>DIRECTOR ACADEMICO</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>Lic. M.Sc. OMAR ARCE GARCIA</td>
+                        <td>DIRECTOR DE INST. INVESTIGACIONES</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>Dr. EDWIN ESCALERA MEJIA</td>
+                        <td>JEFE DE DEPARTAMENTO DE POSGRADO</td>
+                    </tr>
+                   
+                </table>
+            
+     
 
     <!--Scripts Starts-->
     <script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>

@@ -87,7 +87,7 @@
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="view/informacion.php">Informacion</a>
-                <a class="dropdown-item" href="view/contacto.php">Contacto</a>
+                <a class="dropdown-item" href="pagina.php">Contacto</a>
                 <a class="dropdown-item" href="view/autoridades.php">Autoridades</a>
                 <a class="dropdown-item" href="view/docentes.php">Docentes</a>
               </div>
