@@ -5,8 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/estilos.css">
+    <link href="../librerias/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <script src="../librerias/bootstrap/jjs/bootstrap.bundle.min.js"></script>    
+    <script src="../librerias/jquery/jquery-3.3.1.min.js"></script>
+    <script src="../librerias/js/sweetalert2.all.min.js"></script>
+    <link rel="stylesheet" href="../css/estilos.css">
     <title>PlatziConf Hawai</title>
   </head>
   <body data-spy="scroll" data-target="#navbar" data-offset="57">
@@ -16,7 +20,7 @@
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="#main">Inicio</a>
+              <a class="nav-link" href="../index.php">Inicio</a>
             </li>
             <div class="dropdown">
               <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -24,7 +28,7 @@
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="#">Tesis</a>
-                <a class="dropdown-item" href="view/defensaTesis.html">Defensa de Tesis</a>
+                <a class="dropdown-item" href="view/defensaTesis.php">Defensa de Tesis</a>
                 <a class="dropdown-item" href="#">Tramite</a>
               </div>
             </div>
