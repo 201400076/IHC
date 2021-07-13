@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link href="librerias/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../librerias/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <script src="librerias/bootstrap/jjs/bootstrap.bundle.min.js"></script>    
-    <script src="librerias/jquery/jquery-3.3.1.min.js"></script>
-    <script src="librerias/js/sweetalert2.all.min.js"></script>
-    <link rel="stylesheet" href="css/estilos.css">
+    <script src="../librerias/bootstrap/jjs/bootstrap.bundle.min.js"></script>    
+    <script src="../librerias/jquery/jquery-3.3.1.min.js"></script>
+    <script src="../librerias/js/sweetalert2.all.min.js"></script>
+    <link rel="stylesheet" href="../css/estilos.css">
     <title>PlatziConf Hawai</title>
   </head>
   <body data-spy="scroll" data-target="#navbar" data-offset="57">
@@ -56,8 +56,8 @@
                 Admision
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="view/cronogramaExamenes.php">Cronograma de examenes</a>
-                <a class="dropdown-item" href="view/examenesPasados.php">Examenes pasados</a>
+                <a class="dropdown-item" href="cronogramaExamenes.php">Cronograma de examenes</a>
+                <a class="dropdown-item" href="examenesPasados.php">Examenes pasados</a>
                 <a class="dropdown-item" href="#">Resultados</a>
               </div>
             </div>
