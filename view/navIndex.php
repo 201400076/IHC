@@ -11,7 +11,7 @@
     <script src="librerias/jquery/jquery-3.3.1.min.js"></script>
     <script src="librerias/js/sweetalert2.all.min.js"></script>
     <link rel="stylesheet" href="css/estilos.css">
-    <title>PlatziConf Hawai</title>
+    <title>Facultad de Ciencias y Tegnologia</title>
   </head>
   <body data-spy="scroll" data-target="#navbar" data-offset="57">
     <!-- Inicio del header -->
@@ -27,9 +27,9 @@
                 Informacion
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Tesis</a>
+                <a class="dropdown-item" href="view/pagina.php">Tesis</a>
                 <a class="dropdown-item" href="view/defensaTesis.php">Defensa de Tesis</a>
-                <a class="dropdown-item" href="#">Tramite</a>
+                <a class="dropdown-item" href="view/pagina.php">Tramite</a>
               </div>
             </div>
             <div class="dropdown">
