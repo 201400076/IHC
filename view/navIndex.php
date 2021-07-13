@@ -77,19 +77,19 @@
                 Posgrado
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="view/pagina.php">Diplomados</a>
-                <a class="dropdown-item" href="view/pagina.php">Maestrias</a>
+                <a class="dropdown-item" href="http://posgrado.fcyt.umss.edu.bo/">Diplomados</a>
+                <a class="dropdown-item" href="http://posgrado.fcyt.umss.edu.bo/">Maestrias</a>
               </div>
             </div>
             <div class="dropdown">
               <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Aceca de
+                Acerca de
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="view/pagina.php">Informacio</a>
-                <a class="dropdown-item" href="view/pagina.php">Contacto</a>
-                <a class="dropdown-item" href="view/pagina.php">Autoridades</a>
-                <a class="dropdown-item" href="view/pagina.php">Docentes</a>
+                <a class="dropdown-item" href="view/informacion.php">Informacion</a>
+                <a class="dropdown-item" href="pagina.php">Contacto</a>
+                <a class="dropdown-item" href="view/autoridades.php">Autoridades</a>
+                <a class="dropdown-item" href="view/docentes.php">Docentes</a>
               </div>
             </div>
           </ul>

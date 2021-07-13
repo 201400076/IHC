@@ -83,13 +83,13 @@
             </div>
             <div class="dropdown">
               <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Aceca de
+                Acerca de
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="pagina.php">Informacio</a>
+                <a class="dropdown-item" href="informacion.php">Informacion</a>
                 <a class="dropdown-item" href="pagina.php">Contacto</a>
-                <a class="dropdown-item" href="pagina.php">Autoridades</a>
-                <a class="dropdown-item" href="pagina.php">Docentes</a>
+                <a class="dropdown-item" href="autoridades.php">Autoridades</a>
+                <a class="dropdown-item" href="docentes.php">Docentes</a>
               </div>
             </div>
           </ul>

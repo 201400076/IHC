@@ -28,14 +28,55 @@ include("nav.php");
                 </thead>
                 <tbody>
                     <tr>    
-                        <td>IMPLEMENTACION DE SISTEMA DE SANEAMIENTO DE AGUAS</td>
+                        <td>EFECTIVIDAD DEL USO DE ENMIENDAS ORGÁNICAS E INORGÁNICAS </td>
                         <td>PARDO ALCOHOCER JOSE</td>
-                        <td>LIC. ING. INDUSTRIAL</td>
-                        <td>13-08-2021</td>
+                        <td>LIC.ING QUIMICA</td>
+                        <td>24-07-2019</td>
+                        <td>FCYT</td>                                    
+                        <td>MEMI</td>
+                    </tr>
+                </tbody>  
+                
+                <tbody>
+                    <tr>    
+                        <td>"CÁLCULO Y DISEÑO DE UNA LAVADORA Y TRANSPORTADORA DE YUCA"</td>
+                            <td>HEREDIA LUIZAGA MICHEL LEONEL</td>
+                        <td>LIC. ING. MECANICAL</td>
+                        <td>15-02-2021</td>
+                        <td>FCYT</td>                                    
+                        <td>AUDITORIO</td>
+                    </tr>
+                </tbody>  
+                <tbody>
+                    <tr>    
+                        <td>PROYECTO DE DISEÑO DE UN SISTEMA DE ALCANTARILLADO PLUVIAL</td>
+                        <td>GAMBOA GONZALES ALVARO</td>
+                        <td>LIC. ING. CIVIL</td>
+                        <td>09-07-2021</td>
                         <td>FCYT</td>                                    
                         <td>961-C</td>
                     </tr>
-                </tbody>        
+                </tbody>  
+                <tbody>
+                    <tr>    
+                        <td>ELECTRIFICACION DE INDUSTRIA PISCICOLA CHIMORE</td>
+                        <td>RACHI CALAHUMA ALBARO</td>
+                        <td>LIC. ING. ELECTRICA</td>
+                        <td>05-08-2021</td>
+                        <td>FCYT</td>                                    
+                        <td>961-C</td>
+                    </tr>
+                </tbody>  
+                <tbody>
+                    <tr>    
+                        <td>	PROYECTO DE FACTIBILIDAD PARA LA IMPLEMENTACION DE UNA PLANTA PROCESADORA </td>
+                        <td>	DELGADILLO IMACA VIVIAN</td>
+                        <td>LIC. ING. INDUSTRIAL</td>
+                        <td>20-08-2021</td>
+                        <td>FCYT</td>                                    
+                        <td>AUDITORIO FCYT</td>
+                    </tr>
+                </tbody>  
                </table>                    
             </div>
         </div>
