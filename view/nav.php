@@ -47,7 +47,7 @@
                 Noticias
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="pagina.php">Calendario academico</a>
+                <a class="dropdown-item" href="cronogramaAcademico.php">Calendario academico</a>
                 <a class="dropdown-item" href="pagina.php">Becas</a>
               </div>
             </div>
@@ -83,7 +83,7 @@
             </div>
             <div class="dropdown">
               <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Aceca de
+                Acerca de
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="informacion.php">Informacion</a>
