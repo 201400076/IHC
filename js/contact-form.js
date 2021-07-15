@@ -54,23 +54,22 @@ document.addEventListener("touchstart", function() {}, false);
     function submitContactFormActionMSG(valid, msg) {
         if (valid) {
             var msgClasses = "h3 text-center text-success col-md-12";
+
         } else {
             var msgClasses = "h3 text-center text-danger col-md-12";
+
         }
         $("#msgContactSubmit").removeClass().addClass(msgClasses).text(msg);
         return false;
     }
 
     function contactFormSuccess() {
-        if (phone > 0) {
-            submitContactFormActionMSG(true, "Los datos han sido enviados con éxito!");
-            print("hola");
-        }
+
+        submitContactFormActionMSG(true, "Los datos han sido enviados con éxito!");
+
+
+
     }
-
-
-
-
 
 
     function formError() {

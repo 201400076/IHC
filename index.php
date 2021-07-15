@@ -92,12 +92,7 @@
       <div class="container">
         <div class="row text-rigth">
           <div class="col-12 col-lg">
-<<<<<<< HEAD
             <p>© 2001 - 2021 Facultad de Ciencias y Tecnología (UMSS).
-=======
-            <p>| Contáctenos | Mapa del Sitio |
-              © 2001 - 2021 Facultad de Ciencias y Tecnología (UMSS).
->>>>>>> 6183aa9a98a77fff8ba8daec174ba05a54bb1267
               Cochabamba - Bolivia</p>
           </div>
         <div class="row text-center">
