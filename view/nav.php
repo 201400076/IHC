@@ -2,6 +2,13 @@
 <html lang="en">
   <head>
     <!-- Required meta tags -->
+
+
+
+
+
+
+    
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
@@ -87,7 +94,7 @@
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="informacion.php">Informacion</a>
-                <a class="dropdown-item" href="pagina.php">Contacto</a>
+                <a class="dropdown-item" href="contacto.php">Contacto</a>
                 <a class="dropdown-item" href="autoridades.php">Autoridades</a>
                 <a class="dropdown-item" href="docentes.php">Docentes</a>
               </div>

@@ -93,16 +93,17 @@
     <!-- Inicio del footer -->
     <footer class="footer">
       <div class="container">
-        <div class="row text-center">
+        <div class="row text-rigth">
           <div class="col-12 col-lg">
-            <p>| Contáctenos | Mapa del Sitio |
-              © 2001 - 2009 Facultad de Ciencias y Tecnología (UMSS).
+            <p>© 2001 - 2021 Facultad de Ciencias y Tecnología (UMSS).
               Cochabamba - Bolivia</p>
           </div>
-          <div class="col-12 col-lg">
-            <p>Calle Sucre y parque la Torre.
-              Fono: 591-4-4231765</p>
+        <div class="row text-center">
+        <div class="col-12 col-lg">
+            <p>Calle Sucre y parque la Torre.</p>
+            <p>Fono: 591-4-4231765</p>
           </div>
+        </div>
         </div>
       </div>
     </footer>
