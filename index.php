@@ -62,26 +62,23 @@
           <div class="card">
             <img class="card-img-top" src="images/diplomado.png">
             <div class="card-body">
-              <h5 class="card-title">Ing. Civil en estructuras</h5>
-              <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium error exercitationem suscipit sapiente atque sed quibusdam quis. Magni deleniti placeat, sint, repudiandae consectetur neque, aliquam atque odio explicabo iusto debitis.</p>
+              <h5 class="card-title">Diplomado en ingernieria civil en estructuras</h5>
             </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 mb-4">
           <div class="card">
-            <img class="card-img-top" src="images/diplomado.png">
+            <img class="card-img-top" src="images/seguridad_informatica.jpg">
             <div class="card-body">
-              <h5 class="card-title">Ing. Civil en estructuras</h5>
-              <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium error exercitationem suscipit sapiente atque sed quibusdam quis. Magni deleniti placeat, sint, repudiandae consectetur neque, aliquam atque odio explicabo iusto debitis.</p>
+              <h5 class="card-title">Diplomado en tegnologia de la informacion para ambientes fisicos y virtuales</h5>
             </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 mb-4">
           <div class="card">
-            <img class="card-img-top" src="images/diplomado.png">
+            <img class="card-img-top" src="images/diplomado_control_calidad.png">
             <div class="card-body">
-              <h5 class="card-title">Ing. Civil en estructuras</h5>
-              <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium error exercitationem suscipit sapiente atque sed quibusdam quis. Magni deleniti placeat, sint, repudiandae consectetur neque, aliquam atque odio explicabo iusto debitis.</p>
+              <h5 class="card-title">Diplomado en control de calidad e inocuidad de los alimentos</h5>
             </div>
           </div>
         </div>
@@ -96,7 +93,7 @@
         <div class="row text-center">
           <div class="col-12 col-lg">
             <p>| Contáctenos | Mapa del Sitio |
-              © 2001 - 2009 Facultad de Ciencias y Tecnología (UMSS).
+              © 2001 - 2021 Facultad de Ciencias y Tecnología (UMSS).
               Cochabamba - Bolivia</p>
           </div>
           <div class="col-12 col-lg">
@@ -107,42 +104,6 @@
       </div>
     </footer>
     <!-- Final del footer -->
-
-    <!-- Modal -->
-  <div class="modal fade" id="modalCompra" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalCenterTitle">Comprar tickets</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          <form>
-            <div class="form-row">
-              <div class="form-group col">
-                <div class="input-group mb-3">
-                  <div class="input-group-prepend">
-                    <span class="input-group-text" id="basic-addon1">@</span>
-                  </div>
-                  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-                </div>
-              </div>
-            </div>
-          </form>
-          <div class="alert alert-warning" role="alert">
-            Recibiras un correo de confirmacion si sales seleccionado
-          </div>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
-          <button type="button" class="btn btn-platzi">Comprar</button>
-        </div>
-      </div>
-    </div>
-  </div>
-    <!-- /Modal -->
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
