@@ -33,7 +33,7 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="images/noticia1.jpg">
+              <img class="d-block w-100" src="images/noticia1.jpg" alt="auto">
             </div>
             <div class="carousel-item">
               <img class="d-block w-100" src="images/noticia2.jpg">
@@ -62,7 +62,10 @@
           <div class="card">
             <img class="card-img-top" src="images/diplomado.png">
             <div class="card-body">
-              <h5 class="card-title">Diplomado en ingernieria civil en estructuras</h5>
+              <h5 class="card-title" align="center">Diplomado en ingenieria civil en estructuras - 4ta version</h5>
+              <br>
+              
+              <br>
             </div>
           </div>
         </div>
@@ -70,7 +73,9 @@
           <div class="card">
             <img class="card-img-top" src="images/seguridad_informatica.jpg">
             <div class="card-body">
-              <h5 class="card-title">Diplomado en tegnologia de la informacion para ambientes fisicos y virtuales</h5>
+              <h5 class="card-title" align="center">Diplomado en tecnologia de la informacion para ambientes fisicos y virtuales - 1ra version</h5>
+              <br>
+             
             </div>
           </div>
         </div>
@@ -78,7 +83,7 @@
           <div class="card">
             <img class="card-img-top" src="images/diplomado_control_calidad.png">
             <div class="card-body">
-              <h5 class="card-title">Diplomado en control de calidad e inocuidad de los alimentos</h5>
+              <h5 class="card-title" align="center">Diplomado en control de calidad e inocuidad de los alimentos - 3ra version</h5>
             </div>
           </div>
         </div>
@@ -88,6 +93,9 @@
     <!-- /speakers -->
 
     <!-- Inicio del footer -->
+
+
+    
     <footer class="footer">
       <div class="container">
         <div class="row text-rigth">

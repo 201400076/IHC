@@ -21,7 +21,7 @@ include("nav.php");
                         <th>Nro</th>
                         <th>TIPO</th>
                         <th>CARRERA</th>                                
-                        <th>INFORMACIO</th>  
+                        <th>INFORMACION</th>  
                     </tr>
                 </thead>
                 <tbody>
@@ -29,25 +29,25 @@ include("nav.php");
                         <td>1</td>
                         <td>INGENIERIA</td>                                    
                         <td>INGENIERIA INFORMATICA</td>
-                        <td><a href="detalleCarrera.php?carrera=INGENIERIA INFORMATICA">ver mas detalle</a></td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA INFORMATICA">Ver mas detalle</a></td>
                     </tr>
                     <tr>    
-                        <td>1</td>
+                        <td>2</td>
                         <td>INGENIERIA</td>                                    
                         <td>INGENIERIA SISTEMAS</td>
-                        <td><a href="detalleCarrera.php?carrera=INGENIERIA SISTEMAS">ver mas detalle</a></td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA SISTEMAS">Ver mas detalle</a></td>
                     </tr>
                     <tr>    
-                        <td>1</td>
+                        <td>3</td>
                         <td>INGENIERIA</td>                                    
                         <td>INGENIERIA CIVIL</td>
-                        <td><a href="detalleCarrera.php?carrera=INGENIERIA CIVIL">ver mas detalle</a></td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA CIVIL">Ver mas detalle</a></td>
                     </tr>
                     <tr>    
-                        <td>1</td>
+                        <td>4</td>
                         <td>INGENIERIA</td>                                    
                         <td>INGENIERIA ELECTROMECANICA</td>
-                        <td><a href="detalleCarrera.php?carrera=INGENIERIA ELECTROMECANICA">ver mas detalle</a></td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA ELECTROMECANICA">Ver mas detalle</a></td>
                     </tr>
                 </tbody>        
                </table>                    

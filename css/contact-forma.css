@@ -214,6 +214,7 @@
     -webkit-transition-property: color;
     transition-property: color;
     vertical-align: middle;
+    text-transform: uppercase;
 }
 
 .btn-custom::before {
