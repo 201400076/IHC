@@ -1,0 +1,17 @@
+<html>
+<head>
+<script>
+function mostrar(enla) {
+  obj = document.getElementById('oculto');
+  obj.style.visibility = (obj.style.visibility == 'hidden') ? 'visible' : 'hidden';
+  enla.innerHTML = (enla.innerHTML == '-') ? '+' : '-';
+}
+</script>
+</head>
+<body>
+<a href="#" onclick="mostrar(this); return false" />+</a>
+<div id="oculto" style="visibility:hidden">
+Este texto se verá cuando yo quiera
+</div>
+</body> 
+</html>

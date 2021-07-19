@@ -10,6 +10,9 @@
   
     
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
+
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
 
     <!-- Bootstrap CSS -->
     <link href="../librerias/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -94,11 +97,17 @@
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="informacion.php">Informacion</a>
-                <a class="dropdown-item" href="contacto.php">Contacto</a>
+                <!-- <a class="dropdown-item" href="contacto.php">Contacto</a> -->
                 <a class="dropdown-item" href="autoridades.php">Autoridades</a>
                 <a class="dropdown-item" href="docentes.php">Docentes</a>
               </div>
             </div>
+            <div>
+              <li class="" >
+              <a href="contacto.php" class="btn btn-dark" role="button" aria-pressed="true">Contacto</a>
+              </li>
+            </div>
+            
           </ul>
          </div>
         </div>

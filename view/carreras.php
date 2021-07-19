@@ -2,6 +2,16 @@
 <?php
 include("nav.php");
 ?>
+<div aria-label="breadcrumb">
+   <div class=""> 
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../index.php">Inicio</a></li>
+    <li class="breadcrumb-item">Pregrado</li>
+    <li class="breadcrumb-item active" aria-current="page">Carreras Disponibles</li>
+  </ol>
+</div>
+</div>
+
  <!-- Final del header -->
  <section id="speakers" class="speakers mt-4 mb-4">
         <div class="container">

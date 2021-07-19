@@ -4,8 +4,12 @@
     <!-- Required meta tags -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <script src="https://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
+
     <!-- Bootstrap CSS -->
     <link href="librerias/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+
     <!-- Custom styles for this template -->
     <script src="librerias/bootstrap/jjs/bootstrap.bundle.min.js"></script>    
     <script src="librerias/jquery/jquery-3.3.1.min.js"></script>
@@ -87,10 +91,15 @@
               </button>
               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="view/informacion.php">Informacion</a>
-                <a class="dropdown-item" href="view/contacto.php">Contacto</a>
+                <!-- <a class="dropdown-item" href="view/contacto.php">Contacto</a> -->
                 <a class="dropdown-item" href="view/autoridades.php">Autoridades</a>
                 <a class="dropdown-item" href="view/docentes.php">Docentes</a>
               </div>
+            </div>
+            <div>
+              <li class="" >
+              <a href="view/contacto.php" class="btn btn-dark" role="button" aria-pressed="true">Contacto</a>
+              </li>
             </div>
           </ul>
          </div>

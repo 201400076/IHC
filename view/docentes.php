@@ -3,7 +3,17 @@ include("nav.php");
 
 
 ?>
-  <section id="speakers" class="speakers mt-4 mb-4">
+
+<div aria-label="breadcrumb">
+   <div class=""> 
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../index.php">Inicio</a></li>
+    <li class="breadcrumb-item">Acerca de</li>
+    <li class="breadcrumb-item active" aria-current="page">Docentes</li>
+  </ol>
+</div>
+</div>
+<section id="speakers" class="speakers mt-4 mb-4">
             <div class="container">
             <div class="row">
                 <div class="col text-center text-uppercase">
