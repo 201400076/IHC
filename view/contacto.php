@@ -54,7 +54,7 @@
 													
 													<div class="form-group col-sm-6">
 														<div class="help-block with-errors"></div>
-														<input name="fname" id="fname" placeholder="Tu nombre*" class="form-control" type="text" required data-error="Por favor ingresa tu nombre"> 
+														<input name="fname" id="fname" placeholder="Tu nombre*" class="form-control fname" type="text" required data-error="Por favor ingresa tu nombre"> 
 														<div class="input-group-icon"><i class="fa fa-user"></i></div>
 													</div><!-- end form-group -->
 													<div class="form-group col-sm-6">
@@ -64,7 +64,7 @@
 													</div><!-- end form-group -->
 													<div class="form-group col-sm-6">
 														<div class="help-block with-errors"></div>
-														<input name="phone" id="phone" placeholder="Teléfono*" class="form-control" type="text" required data-error="Por favor ingresa tu número de teléfono">
+														<input name="phone" id="phone" placeholder="Teléfono*" class="form-control phone" type="text" required data-error="Por favor ingresa tu número de teléfono">
 														<div class="input-group-icon"><i class="fa fa-phone"></i></div> 
 													</div><!-- end form-group -->
 													<div class="form-group col-sm-6">

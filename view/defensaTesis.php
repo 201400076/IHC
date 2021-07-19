@@ -23,6 +23,8 @@ include("nav.php");
                         <th>CARRERA</th>                                
                         <th>FECHA DE DEFENSA</th>  
                         <th>LUGAR</th>  
+                       
+                       
                         <th>AULA</th>
                     </tr>
                 </thead>
