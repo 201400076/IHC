@@ -24,9 +24,9 @@ include("nav.php");
                 </div>
             </div>
         </section>
-    <div class="container">
+    <div class="contents">
 
-    <div class="contents-wrapper">
+         <div class="contents-wrapper">
             <!-- Contents starts here -->
             <div class="content">
                 

@@ -111,7 +111,7 @@
       </li>
 
       <li class="nav-item active">
-        <a class="nav-link" href="#">Contacto <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="contacto.php">Contacto <span class="sr-only">(current)</span></a>
       </li>
     </ul>
   </div>
