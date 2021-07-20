@@ -1,7 +1,7 @@
 <?php include("nav.php")
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
 	<meta charset="utf-8">
 	<meta content="IE=edge" http-equiv="X-UA-Compatible">
@@ -27,7 +27,44 @@
 </head>
 
 <body>
+<section id="contact-form-section" class="form-content-wrap">
+		<div class="container">
+			<div class="row">
+				<div class="tab-content">
+					<div class="col-sm-12">
+						<div class="item-wrap">
+							<div class="row">
+								
+								<div class="col-sm-12">
+									<div class="item-content colBottomMargin">
+										<div class="item-info">
+											<h2 class="item-title text-center">Mapa Facultad de Ciencias y Tecnologia</h2>
+											
+										</div><!--End item-info -->
+										
+								   </div><!--End item-content -->
+								</div><!--End col -->
+								<div class="col-md-12">	
+										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1959.473640776028!2d-66.1458257127667!3d-17.393422621798333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x93e373fef33857cf%3A0x676cd0a74a6599f2!2sFacultad%20de%20Ciencias%20y%20Tecnolog%C3%ADa!5e0!3m2!1ses-419!2sbo!4v1626705327503!5m2!1ses-419!2sbo" width="1075" height="450" style="border:0;" allowfullscreen="" loading="lazy" align="center"></iframe>
+
+								
+											</div>
+							</div><!--End row -->
+							
+						
+								
+							
+							<!-- Popup end -->
+							
+						</div><!-- end item-wrap -->
+					</div><!--End col -->
+				</div><!--End tab-content -->
+			</div><!--End row -->
+		</div><!--End container -->
+	</section>
 	
+	
+
 	<section id="contact-form-section" class="form-content-wrap">
 		<div class="container">
 			<div class="row">
@@ -46,9 +83,10 @@
 								   </div><!--End item-content -->
 								</div><!--End col -->
 								<div class="col-md-12">
+
 								
 								
-								<form id="contactForm" name="contactform" data-toggle="validator" class="popup-form">
+									<form id="contactForm" name="contactform" data-toggle="validator" class="popup-form">
 												<div class="row">
 													<div id="msgContactSubmit" class="hidden"></div>
 													
@@ -85,7 +123,7 @@
 													<span class="sub-text">* Campos obligatorios</span>
 													<div class="clearfix"></div>
 												</div><!-- end row -->
-											</form><!-- end form -->
+										</form><!-- end form -->
 											
 											
 									
