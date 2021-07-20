@@ -17,7 +17,7 @@
   <body data-spy="scroll" data-target="#navbar" data-offset="57">
     <!-- Inicio del header -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark header sticky-top">
-  <a class="navbar-brand" href="#"></a>
+  <a class="navbar-brand" href="#"><img src="images/logofcyt.png" width="150" height="80"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -31,10 +31,10 @@
           FCyT
         </a>
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="view/informacion.php">Informacion</a>
+                <a class="dropdown-item" href="view/informacion.php">Generalidades</a>
                 <a class="dropdown-item" href="view/autoridades.php">Autoridades</a>
                 <a class="dropdown-item" href="view/docentes.php">Docentes</a>
-              </div>
+         </div>
       </li>
       <li class="nav-item dropdown active">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

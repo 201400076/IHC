@@ -27,6 +27,16 @@
 </head>
 
 <body>
+
+<div aria-label="breadcrumb">
+   <div class=""> 
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../index.php">Inicio</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page">Contacto</li>
+  </ol>
+</div>
+</div>
 <section id="contact-form-section" class="form-content-wrap">
 		<div class="container">
 			<div class="row">

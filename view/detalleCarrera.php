@@ -14,15 +14,16 @@ $carrera=$_GET['carrera'];
 </div>
 </div>
  <!-- Final del header -->
- <section id="speakers" class="speakers mt-4 mb-4">
-        <div class="container">
-          <div class="row">
-            <div class="col text-center text-uppercase">
-              <h2><?php echo $carrera?></h2>
+ 
+   <div class="container">
+  <section id="info" class="info mt-4 mb-4">
+            <div class="container">
+            <div class="row">
+                <div class="col text-center text-uppercase">
+                <h2><?php echo $carrera?></h2>
+                </div>
             </div>
-          </div>
-   </section>
-
+        </section>
 
 <?php
 if($carrera==="INGENIERIA SISTEMAS"){

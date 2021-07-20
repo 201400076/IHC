@@ -1,8 +1,20 @@
+.info {
+    background-color: #e3f2fd;
+}
+
+.nav-item:hover {
+    background-color: #1565c0 !important;
+}
+
+.dropdown-menu:hover {
+    background-color: #e3f2fd !important;
+}
+
 .text-platzi {
     color: #97c93e !important;
 }
 
-.header{
+.header {
     background-color: #121E30;
 }
 

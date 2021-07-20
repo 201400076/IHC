@@ -3,14 +3,26 @@
 include("nav.php");
 ?>
  <!-- Final del header -->
- <section id="speakers" class="speakers mt-4 mb-4">
-        <div class="container">
-          <div class="row">
-            <div class="col text-center text-uppercase">
-              <h2>EXAMENES PASADOS</h2>
+ <div aria-label="breadcrumb">
+   <div class=""> 
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../index.php">Inicio</a></li>
+    <li class="breadcrumb-item">Admision</li>
+    <li class="breadcrumb-item active" aria-current="page">Examenes pasados</li>
+  </ol>
+</div>
+</div>
+
+
+ <div class="container">
+  <section id="info" class="info mt-4 mb-4">
+            <div class="container">
+            <div class="row">
+                <div class="col text-center text-uppercase">
+                <h2>EXAMENES PASADOS</h2>
+                </div>
             </div>
-          </div>
-</section>
+        </section>
 <div class="container">
 <div class="row">
         <div class="col-lg-12">

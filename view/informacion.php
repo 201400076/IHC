@@ -9,24 +9,24 @@ include("nav.php");
    <div class=""> 
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../index.php">Inicio</a></li>
-    <li class="breadcrumb-item">Acerca de</li>
-    <li class="breadcrumb-item active" aria-current="page">Informacion</li>
+    <li class="breadcrumb-item">FCyT</li>
+    <li class="breadcrumb-item active" aria-current="page">Generalidades</li>
   </ol>
 </div>
 </div>
 
-
-    <section id="speakers" class="speakers mt-4 mb-4">
+<div class="container">
+  <section id="info" class="info mt-4 mb-4">
             <div class="container">
             <div class="row">
                 <div class="col text-center text-uppercase">
-                <h2>Generalidades</h2>
+                <h2>Antecedentes</h2>
                 </div>
             </div>
         </section>
-    <div class="contents">
+    
 
-         <div class="contents-wrapper">
+    <div class="contents-wrapper">
             <!-- Contents starts here -->
             <div class="content">
                 
@@ -43,7 +43,7 @@ include("nav.php");
         <!-- Footer -->
    
 
-        <section id="speakers" class="speakers mt-4 mb-4">
+        <section id="info" class="info mt-4 mb-4">
             <div class="container">
             <div class="row">
                 <div class="col text-center text-uppercase">
@@ -57,7 +57,7 @@ include("nav.php");
                 <p>Es una unidad académica e investigativa en ciencias y tecnología de la UMSS que genera valor para la región, formando integralmente profesionales calificados, líderes, críticos, éticos, con conciencia ciudadana y ambiental; generando y aplicando conocimiento científico y tecnológico desde su Parque Científico, ofertando servicios especializados de calidad, divulgando y difundiendo conocimiento científico; transfiriendo tecnología y consolidando sistemas de innovación y emprendimiento, para mejorar la competitividad regional y nacional.</p>
           
             </div>
-            <section id="speakers" class="speakers mt-4 mb-4">
+            <section id="info" class="info mt-4 mb-4">
             <div class="container">
             <div class="row">
                 <div class="col text-center text-uppercase">

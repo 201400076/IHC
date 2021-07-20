@@ -20,7 +20,7 @@
     <!-- Inicio del header -->
       
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark header sticky-top">
-  <a class="navbar-brand" href="#"></a>
+  <a class="navbar-brand" href="../index.php"><img src="../images/logofcyt.png" width="150" height="80"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -35,10 +35,10 @@
           FCyT
         </a>
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="informacion.php">Informacion</a>
+                <a class="dropdown-item" href="informacion.php">Generalidades</a>
                 <a class="dropdown-item" href="autoridades.php">Autoridades</a>
                 <a class="dropdown-item" href="docentes.php">Docentes</a>
-                <a class="dropdown-item" href="defensaTesis.php">Defensa de Tesis</a>
+                <!-- <a class="dropdown-item" href="defensaTesis.php">Defensa de Tesis</a> -->
           </div>
       </li>
       <li class="nav-item dropdown active">

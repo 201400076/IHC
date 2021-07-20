@@ -7,17 +7,18 @@ include("nav.php");
    <div class=""> 
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../index.php">Inicio</a></li>
-    <li class="breadcrumb-item">Acerca de</li>
+    <li class="breadcrumb-item">FCyT</li>
     <li class="breadcrumb-item active" aria-current="page">Autoridades</li>
   </ol>
 </div>
 </div>
 
-    <section id="speakers" class="speakers mt-4 mb-4">
+<div class="container">
+  <section id="info" class="info mt-4 mb-4">
             <div class="container">
             <div class="row">
                 <div class="col text-center text-uppercase">
-                <h2>Autoridades</h2>
+                <h2>AUTORIDADES</h2>
                 </div>
             </div>
         </section>
