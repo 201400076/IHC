@@ -18,85 +18,81 @@
   </head>
   <body data-spy="scroll" data-target="#navbar" data-offset="57">
     <!-- Inicio del header -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark header sticky-top">
-      <div class="container">
-        <div class="collapse navbar-collapse" id="navbar">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="../index.php">Inicio</a>
-            </li>
-            <div class="dropdown">
-              <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                FCyT
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark header sticky-top">
+  <a class="navbar-brand" href="#"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="../index.php">Inicio <span class="sr-only">(current)</span></a>
+      </li>
+      
+      <li class="nav-item dropdown active">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          FCyT
+        </a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="informacion.php">Informacion</a>
-                <!-- <a class="dropdown-item" href="contacto.php">Contacto</a> -->
                 <a class="dropdown-item" href="autoridades.php">Autoridades</a>
                 <a class="dropdown-item" href="docentes.php">Docentes</a>
-              </div>
-            </div>
-
-            <div class="dropdown">
-              <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Admision
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" href="defensaTesis.php">Defensa de Tesis</a>
+          </div>
+      </li>
+      <li class="nav-item dropdown active">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Admision
+        </a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="cronogramaExamenes.php">Cronograma de examenes</a>
                 <a class="dropdown-item" href="examenesPasados.php">Examenes pasados</a>
               </div>
-            </div>
-
-            <div class="dropdown">
-              <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Pregrado
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      </li>
+      <li class="nav-item dropdown active">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Pregrado
+        </a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="carreras.php">Carreras disponibles</a>
                 <a class="dropdown-item" href="pagina.php">Examenes de mesa</a>
                 <a class="dropdown-item" href="pagina.php">Curso de invierno</a>
                 <a class="dropdown-item" href="pagina.php">Curso de verano</a>
                 <a class="dropdown-item" href="defensaTesis.php">Defensa de Tesis</a>
               </div>
-            </div>
-            <div class="dropdown">
-              <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Posgrado
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      </li>
+      <li class="nav-item dropdown active">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Posgrado
+        </a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="http://posgrado.fcyt.umss.edu.bo/">Diplomados</a>
                 <a class="dropdown-item" href="http://posgrado.fcyt.umss.edu.bo/">Maestrias</a>
               </div>
-            </div>
-                    
-            <div class="dropdown">
-              <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Horarios
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      </li>
+      <li class="nav-item dropdown active">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Horarios
+        </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="http://2021.cappuchino.scesi.umss.edu.bo/">Semestre</a>
                 <a class="dropdown-item" href="pagina.php">Invierno</a>
                 <a class="dropdown-item" href="pagina.php">Verano</a>
               </div>
-            </div>
-            <div class="dropdown">
-              <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Noticias
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      </li>
+      <li class="nav-item dropdown active">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Noticias
+        </a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="cronogramaAcademico.php">Calendario academico</a>
                 <a class="dropdown-item" href="pagina.php">Becas</a>
               </div>
-            </div>
-            
-            
-            <div>
-              <li class="" >
-              <a href="contacto.php" class="btn btn-dark" role="button" aria-pressed="true">Contacto</a>
-              </li>
-            </div>
-            
-          </ul>
-         </div>
-        </div>
-      </nav>
+      </li>      
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Contacto <span class="sr-only">(current)</span></a>
+      </li>
+    </ul>
+  </div>
+</nav>
