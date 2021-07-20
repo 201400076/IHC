@@ -8,7 +8,7 @@
     <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" Data-pause="false">
       <div class="carousel-inner">
         <div class="carousel-item active">
-        <img src="images/home.png" class="d-block w-100" alt="Hawaii1">
+        <img src="images/home.png" class="d-block w-100" alt="">
         </div>
       </div>
     </div>
@@ -17,11 +17,21 @@
     <!-- /Main -->
 
     <!-- Speakers -->
+
+    <div class="container">
+  <section id="info" class="info mt-4 mb-4">
+            <div class="container">
+            <div class="row">
+                <div class="col text-center text-uppercase">
+                <h2>NOTICIAS</h2>
+                </div>
+            </div>
+        </section>
   <section id="speakers" class="speakers mt-4 mb-4">
     <div class="container">
       <div class="row">
         <div class="col text-center text-uppercase">
-          <h2>NOTICIAS</h2>
+          <h2></h2>
         </div>
       </div>
       <div class="row">
@@ -58,9 +68,29 @@
       </div>
 <br>
       <div class="col text-center text-uppercase">
-        <h2>DIPLOMADOS POSGRADOS FCYT - UMSS</h2>
+        <h2></h2>
       </div>
 <br>
+</section>
+
+<div class="container">
+  <section id="info" class="info mt-4 mb-4">
+            <div class="container">
+            <div class="row">
+                <div class="col text-center text-uppercase">
+                <h2>DIPLOMADOS POSGRADOS FCYT - UMSS</h2>
+                </div>
+            </div>
+        </section>
+<div class="container">
+  <section id="speakers" class="speakers mt-4 mb-4">
+            <div class="container">
+            <div class="row">
+                <div class="col text-center text-uppercase">
+                <h2></h2>
+                </div>
+            </div>
+        
       <div class="row">
         <div class="col-sm-6 col-md-4 mb-4">
           <div class="card">
