@@ -59,6 +59,72 @@ include("nav.php");
                         <td>INGENIERIA ELECTROMECANICA</td>
                         <td><a href="detalleCarrera.php?carrera=INGENIERIA ELECTROMECANICA">Ver mas detalle</a></td>
                     </tr>
+                    <tr>    
+                        <td>5</td>
+                        <td>INGENIERIA</td>                                    
+                        <td>INGENIERIA DE ALIMENTOS</td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA DE ALIMENTOS">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>6</td>
+                        <td>INGENIERIA</td>                                    
+                        <td>INGENIERIA INDUSTRIAL</td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA INDUSTRIAL">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>7</td>
+                        <td>INGENIERIA</td>                                    
+                        <td>INGENIERIA ELECTRICA</td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA ELECTRICA">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>8</td>
+                        <td>INGENIERIA</td>                                    
+                        <td>INGENIERIA MATEMATICA</td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA MATEMATICA">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>9</td>
+                        <td>INGENIERIA</td>                                    
+                        <td>INGENIERIA MECANICA</td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA MECANICA">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>10</td>
+                        <td>INGENIERIA</td>                                    
+                        <td>INGENIERIA QUIMICA</td>
+                        <td><a href="detalleCarrera.php?carrera=INGENIERIA QUIMICA">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>11</td>
+                        <td>LICENCIATUDA</td>                                    
+                        <td>LICENCIATUDA EN BIOLOGIA</td>
+                        <td><a href="detalleCarrera.php?carrera=LICENCIATURA EN BIOLOGIA">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>12</td>
+                        <td>LICENCIATUDA</td>                                    
+                        <td>LICENCIATUDA EN DINAMICA DE LA FISICA</td>
+                        <td><a href="detalleCarrera.php?carrera=LICENCIATURA EN DENIAMICA DE LA FISICA">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>13</td>
+                        <td>LICENCIATUDA</td>                                    
+                        <td>LICENCIATUDA EN FISICA</td>
+                        <td><a href="detalleCarrera.php?carrera=LICENCIATURA EN FISICA">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>14</td>
+                        <td>LICENCIATUDA</td>                                    
+                        <td>LICENCIATUDA EN MATEMATICA</td>
+                        <td><a href="detalleCarrera.php?carrera=LICENCIATURA EN MATEMATICA">Ver mas detalle</a></td>
+                    </tr>
+                    <tr>    
+                        <td>15</td>
+                        <td>LICENCIATUDA</td>                                    
+                        <td>LICENCIATUDA EN QUIMICA</td>
+                        <td><a href="detalleCarrera.php?carrera=LICENCIATURA EN QUIMICA">Ver mas detalle</a></td>
+                    </tr>                  
                 </tbody>        
                </table>                    
             </div>
@@ -71,9 +137,5 @@ include("nav.php");
 <script type="text/javascript" src="../librerias/datatables/datatables.min.js"></script>    
 <script type="text/javascript" src="../js/defesaTesis.js"></script>  
 
-   
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  </body>
+</body>
 </html>

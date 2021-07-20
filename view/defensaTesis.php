@@ -22,7 +22,7 @@ include("nav.php");
                         <th>NOMBRE DE TESISTA</th>
                         <th>CARRERA</th>                                
                         <th>FECHA DE DEFENSA</th>  
-                        <th>LUGAR</th>  
+                        <th>LUGAR</th>                                                
                         <th>AULA</th>
                     </tr>
                 </thead>

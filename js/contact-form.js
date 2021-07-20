@@ -64,9 +64,9 @@ document.addEventListener("touchstart", function() {}, false);
     }
 
     function contactFormSuccess() {
+        $(".fname").text("Nueva Persona"); 
 
         submitContactFormActionMSG(true, "Los datos han sido enviados con éxito!");
-
 
 
     }
